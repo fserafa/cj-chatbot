@@ -63,6 +63,7 @@ export default function Index() {
                     botAvatar={avatar}
                 />
             </Box>
+            <h1>isso ai brother</h1>
         </Container >
     );
 }
