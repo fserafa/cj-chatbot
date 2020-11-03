@@ -64,6 +64,9 @@ export default function Index() {
                 />
             </Box>
             <h1>isso ai brother</h1>
+            <h1>isso ai brother</h1>
+            <h1>isso ai brother</h1>
+            <h1>isso ai brother</h1>
         </Container >
     );
 }
